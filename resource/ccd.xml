@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CCD>
+	<Contents maptype="google">
+
+  <!-- コンテンツ位置：部屋１ -->
+    <Content contentid="cont0" type="img">
+      <img src="cont13.jpg" thumbsrc="th_cont13.jpg"/>
+      <coords lng="133.80116388201714" lat="34.73119130137705" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="部屋1" /> 
+			<coment>
+			</coment>
+    </Content>
+    
+    <!-- コンテンツ位置：部屋2 -->
+    <Content contentid="cont1" type="img">
+      <img src="cont13.jpg" thumbsrc="th_cont13.jpg"/>
+      <coords lng="133.80116539958271" lat="34.73116817328707" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="部屋2" /> 
+			<coment>
+			</coment>
+    </Content>
+    
+    <!-- コンテンツ位置：部屋3 -->
+    <Content contentid="cont2" type="img">
+      <img src="cont13.jpg" thumbsrc="th_cont13.jpg"/>
+      <coords lng="133.80119508034306" lat="34.731165986342276" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="部屋3" /> 
+			<coment>
+			</coment>
+    </Content>
+    
+    <!-- コンテンツ位置：部屋4 -->
+    <Content contentid="cont3" type="img">
+      <img src="cont13.jpg" thumbsrc="th_cont13.jpg"/>
+      <coords lng="133.80119373923856" lat="34.73119080245354" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="部屋4" /> 
+			<coment>
+			</coment>
+    </Content>
+	</Contents>
+</CCD>

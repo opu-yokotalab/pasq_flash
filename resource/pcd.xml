@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PCD>
+<Panoramas startdir="90" startpano="pano0">
+<Panorama panoid="pano0">
+<img height="435" src="R0010016.JPG" width="1500"/>
+<coords lat="34.73119130137705" lng="133.80116388201714"/>
+<direction north="2500"/>
+<chpanos>
+<chpano panoid="pano1"><range end="225.0" start="135.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+<chpano panoid="pano3"><range end="135.0" start="45.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+</chpanos>
+</Panorama>
+<Panorama panoid="pano1">
+<img height="435" src="R0010017.JPG" width="1500"/>
+<coords lat="34.73116817328707" lng="133.80116539958271"/>
+<direction north="2500"/>
+<chpanos>
+<chpano panoid="pano0"><range end="45.0" start="315.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+<chpano panoid="pano2"><range end="135.0" start="45.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+</chpanos>
+</Panorama>
+<Panorama panoid="pano2">
+<img height="435" src="R0010018.JPG" width="1500"/>
+<coords lat="34.731165986342276" lng="133.80119508034306"/>
+<direction north="2500"/>
+<chpanos>
+<chpano panoid="pano1"><range end="315.0" start="225.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+<chpano panoid="pano3"><range end="45.0" start="315.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+</chpanos>
+</Panorama>
+<Panorama panoid="pano3">
+<img height="435" src="R0010019.JPG" width="1500"/>
+<coords lat="34.73119080245354" lng="133.80119373923856"/>
+<direction north="2500"/>
+<chpanos>
+<chpano panoid="pano2"><range end="225.0" start="135.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+<chpano panoid="pano0"><range end="315.0" start="225.0"/><fov base="85.0" next="105.0"/><correct pan="0.0" tilt="0.0"/></chpano>
+</chpanos>
+</Panorama>
+</Panoramas>
+</PCD>
